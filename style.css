@@ -32,3 +32,31 @@ section {
     padding: 30px;
     border-radius: 10px;
 }
+nav {
+    margin-bottom: 50px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 16px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+section {
+    margin-bottom: 25px;
+}
+.project-card {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+
+.project-card h3 {
+    margin-top: 0;
+}
