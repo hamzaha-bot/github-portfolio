@@ -60,3 +60,17 @@ section {
 .project-card h3 {
     margin-top: 0;
 }
+.project-link {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 18px;
+    background-color: #111827;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: bold;
+}
+
+.project-link:hover {
+    opacity: 0.85;
+}
